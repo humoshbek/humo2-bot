@@ -1,0 +1,4 @@
+private_config.py
+__pycache__/
+*.pyc
+*.lnk
